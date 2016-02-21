@@ -9,7 +9,7 @@ Com o aprendiz é possível jogar uma partida inteira.
 
 O formato de entrada e saída é o seguinte: 
 
-```X________```
+"X________"
 
 Onde os tres primeiros '_' representam a primeira linha do tabuleiro, os tres posteriores representam a segunda e a mesma lógica aplica-se aos tres ultimos.
 
